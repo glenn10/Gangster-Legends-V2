@@ -7,3 +7,4 @@
 ["E_ALL","syntax error, unexpected '}'","\/Applications\/XAMPP\/xamppfiles\/htdocs\/MobGame\/modules\/loggedin.inc.php",28,"2014-01-09 14:32:32"]
 ["E_ALL","syntax error, unexpected '}'","\/Applications\/XAMPP\/xamppfiles\/htdocs\/MobGame\/modules\/loggedin.inc.php",28,"2014-01-09 14:32:34"]
 ["E_ALL","syntax error, unexpected '}'","\/Applications\/XAMPP\/xamppfiles\/htdocs\/MobGame\/modules\/loggedin.inc.php",28,"2014-01-09 14:33:22"]
+["E_ALL","syntax error, unexpected T_VARIABLE, expecting T_FUNCTION","\/Applications\/XAMPP\/xamppfiles\/htdocs\/MobGame\/modules\/loggedin.inc.php",11,"2014-01-12 08:01:50"]
